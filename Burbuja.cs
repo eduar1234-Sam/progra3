@@ -11,7 +11,7 @@ namespace Burbuja
 
         public void Cargar()
         {
-            Console.WriteLine("1 Metodo de Burbuja");
+            Console.WriteLine("Metodo de Burbuja");
             Console.Write("Cuantos longitud del vector: ");
             string linea;
             linea = Console.ReadLine();
